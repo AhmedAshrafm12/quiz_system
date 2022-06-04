@@ -1,0 +1,55 @@
+.fixedSection{
+background-color: aqua;
+padding: 20px;
+border-radius: 20px;
+
+}
+
+.polit{
+    margin-left: 20px;
+}
+
+.rightSide{
+padding: 50px;
+background-color: aqua;
+min-height: 500px;
+border-radius: 20px;
+
+}
+
+.nameInput{
+    width: 70%;
+    background: none;
+    border: none;
+    border-bottom: 2px solid #b79b9b;
+    border-radius: 0;
+   text-align: left;
+   direction: ltr;
+}
+.question_number{
+text-decoration: underline;
+font-size: 24px;
+font-weight: bold;
+color: #918d8d;
+
+}
+
+.timer{
+    
+    background-color: #ffeaea;
+    width: 100px;
+    margin: auto;
+    text-align: center!important;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+body{
+    background-color: #f3ebeb;
+}
+
+.active{
+border: 5px solid  red;
+border-radius: 50%;
+}
